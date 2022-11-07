@@ -49,7 +49,7 @@ public class camel {
     str = temp;
     
     // imprimir a str:
-    System.out.println(str);
+    System.out.println(str); //Exemplo: catsAndDogsAreAwesome
 	
   }
 
